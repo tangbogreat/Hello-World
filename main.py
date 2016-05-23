@@ -3,4 +3,4 @@ Class Main:
 		return calculation.calc(a,b)
 
 main = Main()
-main.main(cal)
+main.main(calculate,2,3)
